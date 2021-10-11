@@ -1,5 +1,5 @@
 public class HelloWorld {
   public static void main(String[] args) {
-    System.out.println("This is my fourth java program to check webhook now!");
+    System.out.println("modified java prog to check webhook now!");
   }
 }
